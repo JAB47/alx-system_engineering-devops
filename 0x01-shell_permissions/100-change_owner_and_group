@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R Ugo+x vincent staff
+chown -R vincent:staff*
