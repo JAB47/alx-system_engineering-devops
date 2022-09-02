@@ -1,2 +1,2 @@
 #!/bin/bash
-chown -R vincent:staff*
+Sudo chown -R vincent* & sudo chrpg -R staff*
