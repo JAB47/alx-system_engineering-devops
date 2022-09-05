@@ -1,2 +1,2 @@
 #!/bin/bash
-export PS1=' "(Ôo)' '
+printnv  "(Ôo)
