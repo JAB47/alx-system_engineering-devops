@@ -1,2 +1,2 @@
 #!/bin/bash
-"(Ôo)'
+export PS1=' "(Ôo)' '
